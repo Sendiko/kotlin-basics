@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe08eb87-0362-4058-8e17-f19cfbc52f2f" name="Changes" comment="">
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/.gitignore" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/build.gradle.kts" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/gradle.properties" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/gradlew" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/gradlew.bat" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/settings.gradle.kts" afterDir="false" />
-      <change afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/src/main/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="fe08eb87-0362-4058-8e17-f19cfbc52f2f" name="Changes" comment="init()">
+      <change beforePath="/var/home/msendiko/IdeaProjects/kotlin-basics/.idea/workspace.xml" beforeDir="false" afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="/var/home/msendiko/IdeaProjects/kotlin-basics/build.gradle.kts" beforeDir="false" afterPath="/var/home/msendiko/IdeaProjects/kotlin-basics/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +60,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728307141994</updated>
-      <workItem from="1728307144086" duration="730000" />
+      <workItem from="1728307144086" duration="1129000" />
     </task>
+    <task id="LOCAL-00001" summary="init()">
+      <option name="closed" value="true" />
+      <created>1728308270138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728308270138</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init()" />
+    <option name="LAST_COMMIT_MESSAGE" value="init()" />
   </component>
 </project>
