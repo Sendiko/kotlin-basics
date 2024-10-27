@@ -2,8 +2,16 @@ package org.example
 
 fun main() {
 
-    val name = "Kotlin"
+    /**
+     * val namaVariable: TipeData = Nilai
+     */
 
-    println("Hello, $name!")
+    val name: String = "Sendiko"
+
+    var umur: Int = 19
+
+    var ipk: Double = 3.65
+
+    var sudahLulus: Boolean = false
 
 }
